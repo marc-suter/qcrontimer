@@ -1,0 +1,1 @@
+This project provides a QTimer subclass which has UNIX cron-like scheduling capabilities. It can be configured with a Quartz-style cron expression, and the timeout signal is emitted accordingly.
